@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns 
-![image_ParentCategoryOutcome](C:\Users\edgue\Documents\DATA_BOOTCAMP\Module_1_Excel/to/ParentCategoryOutcome.png)
+![ParentCategoryOutcome](C:\Users\edgue\Documents\DATA_BOOTCAMP\Module_1_Excel/to/ParentCategoryOutcome.png)
 
 Performing analysis on Kickstarter data file to let Louise know if it's a good idea to start a campaign for theater in the USA and
 she is also intrested in Great Britain's theater market, especially musicals.
